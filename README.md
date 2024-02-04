@@ -1,0 +1,1 @@
+This is a bank redirection application. My main goal while doing this project is to learn the chain of responsibility design pattern logic. The loan amount to be withdrawn is entered and a chain is created depending on whether the bank employees have the authority to pay this amount; if not, the next official is approached.
